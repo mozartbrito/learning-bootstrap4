@@ -9,7 +9,7 @@
     <div class="col-md-6">
       <div class="card">
         <div class="card-body">
-          Elemento
+          Elemento para grafico 2
         </div>
       </div>
     </div>
